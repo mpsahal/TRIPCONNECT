@@ -1,0 +1,2 @@
+# TRIPCONNECT
+static website
